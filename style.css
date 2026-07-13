@@ -8,7 +8,7 @@ body {
     font-family: 'Courier New', monospace;
     line-height: 1.6;
     color: #b885e9;
-    background: url('/imagenes/fondo-pag-web.png') no-repeat center center fixed;
+    background: url('imagenes/fondo-pag-web.png') no-repeat center center fixed;
     background-position: center;
     image-rendering: pixelated;
 }
